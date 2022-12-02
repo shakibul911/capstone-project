@@ -4,7 +4,7 @@
 #include<math.h>
 #include <windows.h>
 
-#define Student struct Stud
+#define student struct Stud
 
 void add(FILE * fp);
 void modify(FILE * fp);
